@@ -1,6 +1,6 @@
 # __Lab Report 4__
 
-1. The two links to the 
+1. The two links to the two repositories.
 
 [Link1][1]
 
@@ -11,8 +11,18 @@
 
 [2]:  https://github.com/AnonymousGym/markdown-parse-1
 
-2. Show what should be produced
+2. Show what should be produced.
 
 ![Image][11]
 
 [11]: 1.png
+
+3. Show code of MarkdownParseTest.java
+
+![Image][12]
+
+[12]: 2.png
+
+![Image][13]
+
+[13]: 3.png
