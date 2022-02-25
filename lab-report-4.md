@@ -13,23 +13,27 @@
 
 # 2. Show what should be produced.
 
-![Image][11]
+![Image][111]
 
-[11]: 1.png
+[111]: 11.png
+
+![Image][112]
+
+[112]: 12.png
 
 # 3. Show code of MarkdownParseTest.java
 This is same for both MarkdownParse.java from two repositories.
 
-![Image][12]
+![Image][113]
 
-[12]: 2.png
+[113]: 13.png
 
-![Image][13]
+![Image][114]
 
-[13]: 3.png
+[114]: 14.png
 
 # 4. Implementation output:
-For both my code and the reviewed code, they can pass the first test but fail the second and third tests.
+For both my code and the reviewed code, they fail all the tests.
 
 For the first version, the MarkdownParse is below:
 
@@ -39,9 +43,13 @@ For the first version, the MarkdownParse is below:
 
 The result is here:
 
-![Image][15]
+![Image][117]
 
-[15]: 5.png
+[117]: 17.png
+
+![Image][118]
+
+[118]: 18.png
 
 For the second version, the MarkdownParse is below:
 
@@ -51,13 +59,13 @@ For the second version, the MarkdownParse is below:
 
 The result is here:
 
-![Image][17]
+![Image][115]
 
-[17]: 7.png
+[115]: 15.png
 
-![Image][18]
+![Image][116]
 
-[18]: 8.png
+[116]: 16.png
 
 # 5. Answers to improve the code
   -For backticks: 
