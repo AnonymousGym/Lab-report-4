@@ -1,6 +1,6 @@
 # __Lab Report 4__
 
-1. The two links to the two repositories.
+# 1. The two links to the two repositories.
 
 [Link1][1]
 
@@ -11,13 +11,13 @@
 
 [2]:  https://github.com/AnonymousGym/markdown-parse-1
 
-2. Show what should be produced.
+# 2. Show what should be produced.
 
 ![Image][11]
 
 [11]: 1.png
 
-3. Show code of MarkdownParseTest.java
+# 3. Show code of MarkdownParseTest.java
 This is same for both MarkdownParse.java from two repositories.
 
 ![Image][12]
@@ -28,7 +28,8 @@ This is same for both MarkdownParse.java from two repositories.
 
 [13]: 3.png
 
-4. Implementation output:
+# 4. Implementation output:
+For both my code and the reviewed code, they can pass the first test but fail the second and third tests.
 
 For the first version, the MarkdownParse is below:
 
@@ -57,3 +58,6 @@ The result is here:
 ![Image][18]
 
 [18]: 8.png
+
+# 5. Answers to improve the code
+  -
