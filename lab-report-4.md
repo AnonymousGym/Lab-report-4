@@ -69,10 +69,10 @@ The result is here:
 
 # 5. Answers to improve the code
   -For backticks: 
-  I think there won't be a very easy fix for the problem. The difficulty to identify if a backtick is inside the parenthesis or inside the bracket is hard to be resolved
+  I think there won't be a very easy fix for the problem. The difficulty to identify if a backtick is inside the parenthesis or inside the bracket is hard to be   resolved. From my perspective, we have to check each backtick in the sentence and determine the environment around it. Then, we can judge if it will forbid a     valid link. It will cost a lot of time and space of code.
   
   -For nested parentheses:
-  
+  I don't think there is a quick solution for the nested parentheses problem. A typical way to deal with validity of lots of parentheses and brackets is to use a   stack. However, in this case we should keep a structure of []() to keep validity, which needs a more delicately designed stack. So it's hard to finish the       change in 10 lines.
   
   -For new line in parentheses and brackets:
-
+  I believe this is rather difficult for me. Because we have to determine if there is a new line between the two brackets. However, I'm not familiar with the way   to check if there is large space between java code. So, I think it's hard to conquer this problem with a minor improment.
