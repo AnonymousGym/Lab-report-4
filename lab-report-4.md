@@ -18,6 +18,7 @@
 [11]: 1.png
 
 3. Show code of MarkdownParseTest.java
+This is same for both MarkdownParse.java from two repositories.
 
 ![Image][12]
 
@@ -26,3 +27,33 @@
 ![Image][13]
 
 [13]: 3.png
+
+4. Implementation output:
+
+For the first version, the MarkdownParse is below:
+
+![Image][14]
+
+[14]: 4.png
+
+The result is here:
+
+![Image][15]
+
+[15]: 5.png
+
+For the second version, the MarkdownParse is below:
+
+![Image][16]
+
+[16]: 6.png
+
+The result is here:
+
+![Image][17]
+
+[17]: 7.png
+
+![Image][18]
+
+[18]: 8.png
