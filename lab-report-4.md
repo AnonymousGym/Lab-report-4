@@ -60,4 +60,6 @@ The result is here:
 [18]: 8.png
 
 # 5. Answers to improve the code
-  -
+  -For backticks: 
+  -For nested parentheses:
+  -For new line in parentheses and brackets:
