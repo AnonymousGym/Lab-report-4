@@ -10,3 +10,9 @@
 [Link2][2]
 
 [2]:  https://github.com/AnonymousGym/markdown-parse-1
+
+2. Show what should be produced
+
+![Image][11]
+
+[11]: 1.png
